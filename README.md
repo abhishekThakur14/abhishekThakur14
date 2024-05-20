@@ -1,3 +1,4 @@
+![logo](https://github.com/abhishekThakur14/abhishekThakur14/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek Thakur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
